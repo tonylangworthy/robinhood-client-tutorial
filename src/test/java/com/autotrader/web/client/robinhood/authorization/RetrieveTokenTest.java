@@ -4,7 +4,7 @@ import org.junit.Test;
 
 public class RetrieveTokenTest {
 
-    private RetrieveToken retriveToken = new RetrieveToken();
+    private RetrieveToken retrieveToken = new RetrieveToken();
 
     @Test
     public void invokeTest() {
